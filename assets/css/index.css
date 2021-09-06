@@ -1,0 +1,51 @@
+.container {
+    text-align: center;
+}
+
+img {
+    width: 35px;
+    height: 35px;
+}
+
+.position {
+    margin: 40px;
+}
+
+.latiInp {
+    margin: 20px;
+
+}
+
+.btn-search {
+    margin: 20px;
+}
+
+.city-name {
+    font-style: italic;
+    font-weight: normal;
+}
+
+h1, h2{
+    font-weight: bolder;
+}
+
+.observation {
+    height: 100px;
+}
+
+
+.list {
+    text-align: center;
+    width: 500px;
+    margin-bottom: 50px;
+}
+
+.air-quality-index, .output {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.index {
+    width: 300px;
+    height: 300px;
+}
