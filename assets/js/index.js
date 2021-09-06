@@ -73,7 +73,7 @@ const getData = (lat, lon) => {
         output.style.color = color;
         healthImplications.innerText = desc;
 
-        let comp = dataJson.data;
+        let comp = dataJson.data.iaqi;
 
         console.log(comp);
         
